@@ -1,4 +1,4 @@
--- Obfuscation by YAJU
+-- Obfuscation by aaa
 if truethen local OlOlO1O11Il10=nil end;
 local lOl_OI0010O_=type(string.char(76,98,101));
 local lO1O_lO0Ol_1l_O0_0=math.max(0,11);
